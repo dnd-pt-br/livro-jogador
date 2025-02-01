@@ -1,0 +1,178 @@
+{
+  "id": "dnd-players-handbook",
+  "title": "Dungeons & Dragons Player's Handbook: Livro do Jogador",
+  "description": "Embarque em uma aventura épica que está sendo preparada há 10 anos. Este novo e aprimorado Player's Handbook é o guia definitivo para jogadores de D&D da quinta edição. Jogue do seu jeito com regras otimizadas para criação e avanço de personagens, exploração, combate, equipamentos, feitiços e muito mais. Crie heróis fantásticos a partir de uma seleção ampliada de origens, classes e subclasses de personagens, revisados ​​e balanceados para máxima diversão.",
+  "authors": [
+    {
+      "name": "Fã"
+    }
+  ],
+  "media": [
+    {
+      "type": "setup",
+      "url": "modules/dnd-players-handbook/assets/journal-art/phb-2024-cover.webp",
+      "loop": false,
+      "flags": {}
+    }
+  ],
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "esmodules": ["scripts/dnd-players-handbook.mjs"],
+  "styles": ["styles/dnd-players-handbook.css"],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {
+          "minimum": "4.0.2"
+        }
+      }
+    ]
+  },
+  "packs": [
+    {
+      "name": "content",
+      "label": "Livro do Jogador",
+      "path": "packs/content",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {
+        "display": "table-of-contents"
+      }
+    },
+    {
+      "name": "classes",
+      "label": "Classes de Personagem",
+      "path": "packs/classes",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e"
+    },
+    {
+      "name": "origins",
+      "label": "Origens de Personagem",
+      "path": "packs/origins",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e"
+    },
+    {
+      "name": "feats",
+      "label": "Talentos",
+      "path": "packs/feats",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e"
+    },
+    {
+      "name": "spells",
+      "label": "Magias",
+      "path": "packs/spells",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e"
+    },
+    {
+      "name": "equipment",
+      "label": "Equipmento",
+      "path": "packs/equipment",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e"
+    },
+    {
+      "name": "tables",
+      "label": "Tabela de Rolagem",
+      "path": "packs/tables",
+      "type": "RollTable",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e"
+    },
+    {
+      "name": "actors",
+      "label": "Atores",
+      "path": "packs/actors",
+      "type": "Actor",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e"
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "Livro do Jogador",
+      "color": "#1e72cc",
+      "sorting": "m",
+      "packs": [
+        "content",
+        "classes",
+        "origins",
+        "feats",
+        "spells",
+        "tables",
+        "actors",
+        "equipment"
+      ]
+    }
+  ],
+  "url": "https://github.com/dnd-pt-br/livro-jogador",
+  "manifest": "https://raw.githubusercontent.com/dnd-pt-br/livro-jogador/refs/heads/main/module.json",
+  "protected": false,
+  "changelog": "",
+  "flags": {
+    "hotReload": false,
+    "tokenRingSubjectMappings": {
+      "modules/dnd-players-handbook/assets/tokens/": "modules/dnd-players-handbook/assets/subjects/"
+    },
+    "dnd5e": {
+      "sourceBooks": {
+        "PHB 2024": "SOURCE.BOOK.PHB2024"
+      },
+      "spellLists": [
+        "Compendium.dnd-players-handbook.content.JournalEntry.phbSpells0000000.JournalEntryPage.wwia6Wwo4BgE9GSI",
+        "Compendium.dnd-players-handbook.content.JournalEntry.phbSpells0000000.JournalEntryPage.SkHptN2PTzFGDaEj",
+        "Compendium.dnd-players-handbook.content.JournalEntry.phbSpells0000000.JournalEntryPage.LhvuDQEyrCdg5EfU",
+        "Compendium.dnd-players-handbook.content.JournalEntry.phbSpells0000000.JournalEntryPage.8yD9Jgp404hfZ9ie",
+        "Compendium.dnd-players-handbook.content.JournalEntry.phbSpells0000000.JournalEntryPage.5HnIk6HsrSxkvkz5",
+        "Compendium.dnd-players-handbook.content.JournalEntry.phbSpells0000000.JournalEntryPage.VfZ5mH2ZuyFq82Ga",
+        "Compendium.dnd-players-handbook.content.JournalEntry.phbSpells0000000.JournalEntryPage.sSzagq8GvYXpfmfs",
+        "Compendium.dnd-players-handbook.content.JournalEntry.phbSpells0000000.JournalEntryPage.6AnqLUowgdsqMFvz"
+      ]
+    }
+  }
+}
