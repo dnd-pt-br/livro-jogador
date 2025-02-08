@@ -152,6 +152,7 @@
   ],
   "url": "https://github.com/dnd-pt-br/livro-jogador",
   "manifest": "https://raw.githubusercontent.com/dnd-pt-br/livro-jogador/refs/heads/main/module.json",
+  "download": "https://codeload.github.com/dnd-pt-br/livro-jogador/zip/main",
   "protected": false,
   "changelog": "",
   "flags": {
