@@ -1,8 +1,8 @@
-2025/01/31-17:09:45.545827 70000a552000 Recovering log #221
-2025/01/31-17:09:45.548733 70000a552000 Delete type=3 #219
-2025/01/31-17:09:45.549127 70000a552000 Delete type=0 #221
-2025/01/31-17:24:53.122727 700004ba8000 Level-0 table #226: started
-2025/01/31-17:24:53.122796 700004ba8000 Level-0 table #226: 0 bytes OK
-2025/01/31-17:24:53.123083 700004ba8000 Delete type=0 #224
-2025/01/31-17:24:53.123313 700004ba8000 Manual compaction at level-0 from '!folders!1A8WFP1GVZkKdxii' @ 72057594037927935 : 1 .. '!journal.pages!phbWizard0000000.iMbdRPsxWV1pV61w' @ 0 : 0; will stop at (end)
-2025/01/31-17:24:53.123400 700004ba8000 Manual compaction at level-1 from '!folders!1A8WFP1GVZkKdxii' @ 72057594037927935 : 1 .. '!journal.pages!phbWizard0000000.iMbdRPsxWV1pV61w' @ 0 : 0; will stop at (end)
+2025/02/01-14:28:15.755940 70000f45a000 Recovering log #231
+2025/02/01-14:28:15.757266 70000f45a000 Delete type=3 #229
+2025/02/01-14:28:15.757379 70000f45a000 Delete type=0 #231
+2025/02/03-08:31:54.841603 7000092ad000 Level-0 table #236: started
+2025/02/03-08:31:54.841657 7000092ad000 Level-0 table #236: 0 bytes OK
+2025/02/03-08:31:54.842192 7000092ad000 Delete type=0 #234
+2025/02/03-08:31:54.842782 7000092ad000 Manual compaction at level-0 from '!folders!1A8WFP1GVZkKdxii' @ 72057594037927935 : 1 .. '!journal.pages!phbWizard0000000.iMbdRPsxWV1pV61w' @ 0 : 0; will stop at (end)
+2025/02/03-08:31:54.842878 7000092ad000 Manual compaction at level-1 from '!folders!1A8WFP1GVZkKdxii' @ 72057594037927935 : 1 .. '!journal.pages!phbWizard0000000.iMbdRPsxWV1pV61w' @ 0 : 0; will stop at (end)
