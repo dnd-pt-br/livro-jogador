@@ -1,8 +1,7 @@
-2025/02/01-14:28:15.790344 70000ec57000 Recovering log #204
-2025/02/01-14:28:15.791581 70000ec57000 Delete type=0 #204
-2025/02/01-14:28:15.791727 70000ec57000 Delete type=3 #202
-2025/02/03-08:31:54.843039 7000092ad000 Level-0 table #209: started
-2025/02/03-08:31:54.843089 7000092ad000 Level-0 table #209: 0 bytes OK
-2025/02/03-08:31:54.843389 7000092ad000 Delete type=0 #207
-2025/02/03-08:31:54.845478 7000092ad000 Manual compaction at level-0 from '!folders!2Bw096HjE0HyGMwM' @ 72057594037927935 : 1 .. '!items.effects!phbsptStonecunni.SAbuNo2AO3XXtkdv' @ 0 : 0; will stop at (end)
-2025/02/03-08:31:54.845633 7000092ad000 Manual compaction at level-1 from '!folders!2Bw096HjE0HyGMwM' @ 72057594037927935 : 1 .. '!items.effects!phbsptStonecunni.SAbuNo2AO3XXtkdv' @ 0 : 0; will stop at (end)
+2025/02/11-14:24:19.623 5ed4 Recovering log #226
+2025/02/11-14:24:19.626 5ed4 Delete type=0 #226
+2025/02/11-14:24:19.626 5ed4 Delete type=3 #224
+2025/02/11-14:48:01.409 3b14 Level-0 table #231: started
+2025/02/11-14:48:01.409 3b14 Level-0 table #231: 0 bytes OK
+2025/02/11-14:48:01.411 3b14 Delete type=0 #229
+2025/02/11-14:48:01.411 3b14 Manual compaction at level-0 from '!folders!2Bw096HjE0HyGMwM' @ 72057594037927935 : 1 .. '!items.effects!phbsptStonecunni.SAbuNo2AO3XXtkdv' @ 0 : 0; will stop at (end)
