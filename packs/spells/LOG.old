@@ -1,8 +1,7 @@
-2025/02/01-14:28:15.806891 700010460000 Recovering log #209
-2025/02/01-14:28:15.807929 700010460000 Delete type=3 #207
-2025/02/01-14:28:15.808102 700010460000 Delete type=0 #209
-2025/02/03-08:31:54.844497 7000092ad000 Level-0 table #214: started
-2025/02/03-08:31:54.844550 7000092ad000 Level-0 table #214: 0 bytes OK
-2025/02/03-08:31:54.845313 7000092ad000 Delete type=0 #212
-2025/02/03-08:31:54.845607 7000092ad000 Manual compaction at level-0 from '!folders!3SjcO2acsFnWegp4' @ 72057594037927935 : 1 .. '!items.effects!phbsplZoneofTrut.BgkyT4A5qyArRveO' @ 0 : 0; will stop at (end)
-2025/02/03-08:31:54.845749 7000092ad000 Manual compaction at level-1 from '!folders!3SjcO2acsFnWegp4' @ 72057594037927935 : 1 .. '!items.effects!phbsplZoneofTrut.BgkyT4A5qyArRveO' @ 0 : 0; will stop at (end)
+2025/02/11-14:24:19.634 7618 Recovering log #231
+2025/02/11-14:24:19.636 7618 Delete type=0 #231
+2025/02/11-14:24:19.636 7618 Delete type=3 #229
+2025/02/11-14:48:01.412 3b14 Level-0 table #236: started
+2025/02/11-14:48:01.412 3b14 Level-0 table #236: 0 bytes OK
+2025/02/11-14:48:01.413 3b14 Delete type=0 #234
+2025/02/11-14:48:01.415 3b14 Manual compaction at level-0 from '!folders!3SjcO2acsFnWegp4' @ 72057594037927935 : 1 .. '!items.effects!phbsplZoneofTrut.BgkyT4A5qyArRveO' @ 0 : 0; will stop at (end)
