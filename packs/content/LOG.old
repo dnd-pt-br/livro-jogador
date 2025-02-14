@@ -1,11 +1,7 @@
-2025/02/13-13:15:13.391614 700014fdb000 Delete type=3 #1
-2025/02/14-09:22:11.074186 70000ef34000 Level-0 table #276: started
-2025/02/14-09:22:11.074240 70000ef34000 Level-0 table #276: 0 bytes OK
-2025/02/14-09:22:11.074518 70000ef34000 Delete type=0 #274
-2025/02/14-09:22:11.075442 70000ef34000 Manual compaction at level-0 from '!folders!1A8WFP1GVZkKdxii' @ 72057594037927935 : 1 .. '!journal.pages!phbWizard0000000.iMbdRPsxWV1pV61w' @ 0 : 0; will stop at '!journal.pages!phbWizard0000000.iMbdRPsxWV1pV61w' @ 31326 : 1
-2025/02/14-09:22:11.075462 70000ef34000 Compacting 1@0 + 0@1 files
-2025/02/14-09:22:11.092126 70000ef34000 Generated table #277@0: 954 keys, 646448 bytes
-2025/02/14-09:22:11.092178 70000ef34000 Compacted 1@0 + 0@1 files => 646448 bytes
-2025/02/14-09:22:11.092392 70000ef34000 compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/02/14-09:22:11.092539 70000ef34000 Delete type=2 #271
-2025/02/14-09:22:11.094325 70000ef34000 Manual compaction at level-0 from '!journal.pages!phbWizard0000000.iMbdRPsxWV1pV61w' @ 31326 : 1 .. '!journal.pages!phbWizard0000000.iMbdRPsxWV1pV61w' @ 0 : 0; will stop at (end)
+2025/02/14-17:20:29.055 5100 Recovering log #279
+2025/02/14-17:20:29.057 5100 Delete type=0 #279
+2025/02/14-17:20:29.057 5100 Delete type=3 #278
+2025/02/14-17:49:19.026 cf0 Level-0 table #283: started
+2025/02/14-17:49:19.026 cf0 Level-0 table #283: 0 bytes OK
+2025/02/14-17:49:19.027 cf0 Delete type=0 #281
+2025/02/14-17:49:19.032 cf0 Manual compaction at level-0 from '!folders!1A8WFP1GVZkKdxii' @ 72057594037927935 : 1 .. '!journal.pages!phbWizard0000000.iMbdRPsxWV1pV61w' @ 0 : 0; will stop at (end)
