@@ -1,3 +1,14 @@
-2025/02/14-09:22:14.401458 7000157de000 Recovering log #247
-2025/02/14-09:22:14.402917 7000157de000 Delete type=3 #245
-2025/02/14-09:22:14.403099 7000157de000 Delete type=0 #247
+2025/02/14-17:50:36.051 7360 Recovering log #253
+2025/02/14-17:50:36.054 7360 Delete type=0 #253
+2025/02/14-17:50:36.054 7360 Delete type=3 #251
+2025/02/14-18:02:38.987 63cc Level-0 table #258: started
+2025/02/14-18:02:38.988 63cc Level-0 table #258: 7657 bytes OK
+2025/02/14-18:02:38.990 63cc Delete type=0 #256
+2025/02/14-18:02:38.997 63cc Manual compaction at level-0 from '!folders!0qKr1rbesCSNE0MA' @ 72057594037927935 : 1 .. '!items.effects!qgJ7iyFjaJr7ift1.HsbtDDdiWhk4d7WB' @ 0 : 0; will stop at '!items!phbStarMapStoneT' @ 2515 : 1
+2025/02/14-18:02:38.997 63cc Compacting 1@0 + 1@1 files
+2025/02/14-18:02:39.000 63cc Generated table #259@0: 292 keys, 225209 bytes
+2025/02/14-18:02:39.000 63cc Compacted 1@0 + 1@1 files => 225209 bytes
+2025/02/14-18:02:39.001 63cc compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/02/14-18:02:39.001 63cc Delete type=2 #222
+2025/02/14-18:02:39.001 63cc Delete type=2 #258
+2025/02/14-18:02:39.006 63cc Manual compaction at level-0 from '!items!phbStarMapStoneT' @ 2515 : 1 .. '!items.effects!qgJ7iyFjaJr7ift1.HsbtDDdiWhk4d7WB' @ 0 : 0; will stop at (end)

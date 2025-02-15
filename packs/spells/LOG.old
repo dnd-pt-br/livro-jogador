@@ -1,11 +1,16 @@
-2025/02/13-13:15:13.439176 700015fe1000 Delete type=3 #1
-2025/02/14-09:22:11.094395 70000ef34000 Level-0 table #254: started
-2025/02/14-09:22:11.094552 70000ef34000 Level-0 table #254: 0 bytes OK
-2025/02/14-09:22:11.094886 70000ef34000 Delete type=0 #252
-2025/02/14-09:22:11.096545 70000ef34000 Manual compaction at level-0 from '!folders!3SjcO2acsFnWegp4' @ 72057594037927935 : 1 .. '!items.effects!phbsplZoneofTrut.BgkyT4A5qyArRveO' @ 0 : 0; will stop at '!items.effects!phbsplZoneofTrut.BgkyT4A5qyArRveO' @ 7188 : 1
-2025/02/14-09:22:11.096571 70000ef34000 Compacting 1@0 + 0@1 files
-2025/02/14-09:22:11.128147 70000ef34000 Generated table #255@0: 696 keys, 713970 bytes
-2025/02/14-09:22:11.128206 70000ef34000 Compacted 1@0 + 0@1 files => 713970 bytes
-2025/02/14-09:22:11.128456 70000ef34000 compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/02/14-09:22:11.128606 70000ef34000 Delete type=2 #249
-2025/02/14-09:22:11.134760 70000ef34000 Manual compaction at level-0 from '!items.effects!phbsplZoneofTrut.BgkyT4A5qyArRveO' @ 7188 : 1 .. '!items.effects!phbsplZoneofTrut.BgkyT4A5qyArRveO' @ 0 : 0; will stop at (end)
+2025/02/14-17:20:29.121 438c Recovering log #257
+2025/02/14-17:20:29.123 438c Level-0 table #259: started
+2025/02/14-17:20:29.132 438c Level-0 table #259: 722347 bytes OK
+2025/02/14-17:20:29.135 438c Delete type=0 #257
+2025/02/14-17:20:29.135 438c Delete type=3 #256
+2025/02/14-17:49:19.044 cf0 Level-0 table #262: started
+2025/02/14-17:49:19.044 cf0 Level-0 table #262: 0 bytes OK
+2025/02/14-17:49:19.045 cf0 Delete type=0 #260
+2025/02/14-17:49:19.047 cf0 Manual compaction at level-0 from '!folders!3SjcO2acsFnWegp4' @ 72057594037927935 : 1 .. '!items.effects!phbsplZoneofTrut.BgkyT4A5qyArRveO' @ 0 : 0; will stop at '!items.effects!phbsplZoneofTrut.BgkyT4A5qyArRveO' @ 8165 : 0
+2025/02/14-17:49:19.047 cf0 Compacting 1@0 + 1@1 files
+2025/02/14-17:49:19.058 cf0 Generated table #263@0: 697 keys, 719240 bytes
+2025/02/14-17:49:19.058 cf0 Compacted 1@0 + 1@1 files => 719240 bytes
+2025/02/14-17:49:19.058 cf0 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/02/14-17:49:19.059 cf0 Delete type=2 #255
+2025/02/14-17:49:19.059 cf0 Delete type=2 #259
+2025/02/14-17:49:19.060 cf0 Manual compaction at level-0 from '!items.effects!phbsplZoneofTrut.BgkyT4A5qyArRveO' @ 8165 : 0 .. '!items.effects!phbsplZoneofTrut.BgkyT4A5qyArRveO' @ 0 : 0; will stop at (end)
