@@ -1,7 +1,3 @@
-2025/02/14-17:50:36.031 4418 Recovering log #250
-2025/02/14-17:50:36.034 4418 Delete type=0 #250
-2025/02/14-17:50:36.034 4418 Delete type=3 #248
-2025/02/14-18:02:38.975 63cc Level-0 table #255: started
-2025/02/14-18:02:38.975 63cc Level-0 table #255: 0 bytes OK
-2025/02/14-18:02:38.975 63cc Delete type=0 #253
-2025/02/14-18:02:38.984 63cc Manual compaction at level-0 from '!folders!2Bw096HjE0HyGMwM' @ 72057594037927935 : 1 .. '!items.effects!phbsptStonecunni.SAbuNo2AO3XXtkdv' @ 0 : 0; will stop at (end)
+2025/02/14-16:17:24.741663 70001383a000 Recovering log #258
+2025/02/14-16:17:24.743394 70001383a000 Delete type=3 #256
+2025/02/14-16:17:24.743598 70001383a000 Delete type=0 #258
