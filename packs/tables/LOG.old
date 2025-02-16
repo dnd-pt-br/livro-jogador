@@ -1,7 +1,7 @@
-2025/02/14-16:17:12.850912 700014840000 Recovering log #252
-2025/02/14-16:17:12.852625 700014840000 Delete type=3 #250
-2025/02/14-16:17:12.852870 700014840000 Delete type=0 #252
-2025/02/14-16:17:19.514485 70000de85000 Level-0 table #258: started
-2025/02/14-16:17:19.514568 70000de85000 Level-0 table #258: 0 bytes OK
-2025/02/14-16:17:19.514919 70000de85000 Delete type=0 #256
-2025/02/14-16:17:19.516381 70000de85000 Manual compaction at level-0 from '!folders!F9buBBrMbcKkKGWY' @ 72057594037927935 : 1 .. '!tables.results!phbsplTeleportMi.yJ4FhyyZvenG7AJl' @ 0 : 0; will stop at (end)
+2025/02/16-12:47:52.287253 700015043000 Recovering log #261
+2025/02/16-12:47:52.288838 700015043000 Delete type=3 #259
+2025/02/16-12:47:52.289036 700015043000 Delete type=0 #261
+2025/02/16-14:50:04.190993 70000de85000 Level-0 table #266: started
+2025/02/16-14:50:04.191051 70000de85000 Level-0 table #266: 0 bytes OK
+2025/02/16-14:50:04.191364 70000de85000 Delete type=0 #264
+2025/02/16-14:50:04.193153 70000de85000 Manual compaction at level-0 from '!folders!F9buBBrMbcKkKGWY' @ 72057594037927935 : 1 .. '!tables.results!phbsplTeleportMi.yJ4FhyyZvenG7AJl' @ 0 : 0; will stop at (end)
