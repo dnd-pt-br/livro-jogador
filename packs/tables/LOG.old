@@ -1,7 +1,5 @@
-2025/02/16-14:50:07.908380 70001403d000 Recovering log #265
-2025/02/16-14:50:07.909920 70001403d000 Delete type=0 #265
-2025/02/16-14:50:07.910063 70001403d000 Delete type=3 #263
-2025/02/16-17:08:11.077228 70000de85000 Level-0 table #270: started
-2025/02/16-17:08:11.077284 70000de85000 Level-0 table #270: 0 bytes OK
-2025/02/16-17:08:11.077529 70000de85000 Delete type=0 #268
-2025/02/16-17:08:11.082157 70000de85000 Manual compaction at level-0 from '!folders!F9buBBrMbcKkKGWY' @ 72057594037927935 : 1 .. '!tables.results!phbsplTeleportMi.yJ4FhyyZvenG7AJl' @ 0 : 0; will stop at (end)
+2025/02/17-18:23:46.646 d678 Log #272: 0 ops saved to Table #273 OK
+2025/02/17-18:23:46.647 d678 Archiving C:\Users\lucva\AppData\Local\FoundryVTT\Data\modules\dnd-players-handbook\packs\tables/000272.log: OK
+2025/02/17-18:23:46.647 d678 Table #254: 290 entries OK
+2025/02/17-18:23:46.650 d678 Archiving C:\Users\lucva\AppData\Local\FoundryVTT\Data\modules\dnd-players-handbook\packs\tables/MANIFEST-000271: OK
+2025/02/17-18:23:46.652 d678 **** Repaired leveldb C:\Users\lucva\AppData\Local\FoundryVTT\Data\modules\dnd-players-handbook\packs\tables; recovered 1 files; 42683 bytes. Some data may have been lost. ****

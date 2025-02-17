@@ -1,3 +1,12 @@
-2025/02/16-17:10:41.484751 700014840000 Recovering log #270
-2025/02/16-17:10:41.485958 700014840000 Delete type=3 #268
-2025/02/16-17:10:41.486164 700014840000 Delete type=0 #270
+2025/02/17-18:23:46.574 d678 Delete type=3 #1
+2025/02/17-18:41:35.252 37e4 Level-0 table #278: started
+2025/02/17-18:41:35.258 37e4 Level-0 table #278: 39214 bytes OK
+2025/02/17-18:41:35.259 37e4 Delete type=0 #276
+2025/02/17-18:41:35.283 37e4 Manual compaction at level-0 from '!folders!2Bw096HjE0HyGMwM' @ 72057594037927935 : 1 .. '!items.effects!phbsptStonecunni.SAbuNo2AO3XXtkdv' @ 0 : 0; will stop at '!items!phbspInfernalTie' @ 242 : 1
+2025/02/17-18:41:35.283 37e4 Compacting 2@0 + 0@1 files
+2025/02/17-18:41:35.286 37e4 Generated table #279@0: 96 keys, 137358 bytes
+2025/02/17-18:41:35.286 37e4 Compacted 2@0 + 0@1 files => 137358 bytes
+2025/02/17-18:41:35.287 37e4 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/02/17-18:41:35.287 37e4 Delete type=2 #219
+2025/02/17-18:41:35.287 37e4 Delete type=2 #278
+2025/02/17-18:41:35.287 37e4 Manual compaction at level-0 from '!items!phbspInfernalTie' @ 242 : 1 .. '!items.effects!phbsptStonecunni.SAbuNo2AO3XXtkdv' @ 0 : 0; will stop at (end)
