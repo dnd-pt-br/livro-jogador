@@ -1,7 +1,14 @@
-2025/02/16-12:47:52.240340 700014840000 Recovering log #266
-2025/02/16-12:47:52.242023 700014840000 Delete type=0 #266
-2025/02/16-12:47:52.242255 700014840000 Delete type=3 #264
-2025/02/16-14:50:04.187005 70000de85000 Level-0 table #271: started
-2025/02/16-14:50:04.187076 70000de85000 Level-0 table #271: 0 bytes OK
-2025/02/16-14:50:04.187371 70000de85000 Delete type=0 #269
-2025/02/16-14:50:04.188053 70000de85000 Manual compaction at level-0 from '!folders!0Ca9gLGFA1up33c3' @ 72057594037927935 : 1 .. '!items.effects!phbwzdTheThirdEy.fmt01uyj41mO9kHm' @ 0 : 0; will stop at (end)
+2025/02/16-14:50:07.859626 700015043000 Recovering log #270
+2025/02/16-14:50:07.861164 700015043000 Delete type=3 #268
+2025/02/16-14:50:07.861333 700015043000 Delete type=0 #270
+2025/02/16-17:08:10.968978 70000de85000 Level-0 table #275: started
+2025/02/16-17:08:10.969501 70000de85000 Level-0 table #275: 7990 bytes OK
+2025/02/16-17:08:10.969735 70000de85000 Delete type=0 #273
+2025/02/16-17:08:10.990187 70000de85000 Manual compaction at level-0 from '!folders!0Ca9gLGFA1up33c3' @ 72057594037927935 : 1 .. '!items.effects!phbwzdTheThirdEy.fmt01uyj41mO9kHm' @ 0 : 0; will stop at '!items!phbmnvTripAttack' @ 6790 : 1
+2025/02/16-17:08:10.990216 70000de85000 Compacting 1@0 + 1@1 files
+2025/02/16-17:08:11.012143 70000de85000 Generated table #276@0: 820 keys, 753588 bytes
+2025/02/16-17:08:11.012196 70000de85000 Compacted 1@0 + 1@1 files => 753588 bytes
+2025/02/16-17:08:11.012431 70000de85000 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/02/16-17:08:11.012569 70000de85000 Delete type=2 #275
+2025/02/16-17:08:11.012885 70000de85000 Delete type=2 #255
+2025/02/16-17:08:11.033311 70000de85000 Manual compaction at level-0 from '!items!phbmnvTripAttack' @ 6790 : 1 .. '!items.effects!phbwzdTheThirdEy.fmt01uyj41mO9kHm' @ 0 : 0; will stop at (end)
