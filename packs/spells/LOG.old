@@ -1,11 +1,7 @@
-2025/02/13-13:15:13.439176 700015fe1000 Delete type=3 #1
-2025/02/14-09:22:11.094395 70000ef34000 Level-0 table #254: started
-2025/02/14-09:22:11.094552 70000ef34000 Level-0 table #254: 0 bytes OK
-2025/02/14-09:22:11.094886 70000ef34000 Delete type=0 #252
-2025/02/14-09:22:11.096545 70000ef34000 Manual compaction at level-0 from '!folders!3SjcO2acsFnWegp4' @ 72057594037927935 : 1 .. '!items.effects!phbsplZoneofTrut.BgkyT4A5qyArRveO' @ 0 : 0; will stop at '!items.effects!phbsplZoneofTrut.BgkyT4A5qyArRveO' @ 7188 : 1
-2025/02/14-09:22:11.096571 70000ef34000 Compacting 1@0 + 0@1 files
-2025/02/14-09:22:11.128147 70000ef34000 Generated table #255@0: 696 keys, 713970 bytes
-2025/02/14-09:22:11.128206 70000ef34000 Compacted 1@0 + 0@1 files => 713970 bytes
-2025/02/14-09:22:11.128456 70000ef34000 compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/02/14-09:22:11.128606 70000ef34000 Delete type=2 #249
-2025/02/14-09:22:11.134760 70000ef34000 Manual compaction at level-0 from '!items.effects!phbsplZoneofTrut.BgkyT4A5qyArRveO' @ 7188 : 1 .. '!items.effects!phbsplZoneofTrut.BgkyT4A5qyArRveO' @ 0 : 0; will stop at (end)
+2025/02/16-12:47:52.267213 70001383a000 Recovering log #274
+2025/02/16-12:47:52.268633 70001383a000 Delete type=3 #272
+2025/02/16-12:47:52.268824 70001383a000 Delete type=0 #274
+2025/02/16-14:50:04.189870 70000de85000 Level-0 table #279: started
+2025/02/16-14:50:04.189981 70000de85000 Level-0 table #279: 0 bytes OK
+2025/02/16-14:50:04.190287 70000de85000 Delete type=0 #277
+2025/02/16-14:50:04.190591 70000de85000 Manual compaction at level-0 from '!folders!3SjcO2acsFnWegp4' @ 72057594037927935 : 1 .. '!items.effects!phbsplZoneofTrut.BgkyT4A5qyArRveO' @ 0 : 0; will stop at (end)
