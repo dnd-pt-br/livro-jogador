@@ -1,7 +1,14 @@
-2025/02/16-12:47:52.226602 700015043000 Recovering log #295
-2025/02/16-12:47:52.228159 700015043000 Delete type=3 #293
-2025/02/16-12:47:52.228342 700015043000 Delete type=0 #295
-2025/02/16-14:50:04.187506 70000de85000 Level-0 table #300: started
-2025/02/16-14:50:04.187570 70000de85000 Level-0 table #300: 0 bytes OK
-2025/02/16-14:50:04.187837 70000de85000 Delete type=0 #298
-2025/02/16-14:50:04.188080 70000de85000 Manual compaction at level-0 from '!folders!1A8WFP1GVZkKdxii' @ 72057594037927935 : 1 .. '!journal.pages!phbWizard0000000.iMbdRPsxWV1pV61w' @ 0 : 0; will stop at (end)
+2025/02/16-14:50:07.844048 70001403d000 Recovering log #299
+2025/02/16-14:50:07.846104 70001403d000 Delete type=0 #299
+2025/02/16-14:50:07.846304 70001403d000 Delete type=3 #297
+2025/02/16-17:08:10.965653 70000de85000 Level-0 table #304: started
+2025/02/16-17:08:10.967416 70000de85000 Level-0 table #304: 87584 bytes OK
+2025/02/16-17:08:10.967943 70000de85000 Delete type=0 #302
+2025/02/16-17:08:10.970386 70000de85000 Manual compaction at level-0 from '!folders!1A8WFP1GVZkKdxii' @ 72057594037927935 : 1 .. '!journal.pages!phbWizard0000000.iMbdRPsxWV1pV61w' @ 0 : 0; will stop at '!journal.pages!phbPaladin000000.uWOP3pIZ4bWX0oE6' @ 33608 : 1
+2025/02/16-17:08:10.970410 70000de85000 Compacting 1@0 + 1@1 files
+2025/02/16-17:08:10.988057 70000de85000 Generated table #305@0: 954 keys, 647827 bytes
+2025/02/16-17:08:10.988106 70000de85000 Compacted 1@0 + 1@1 files => 647827 bytes
+2025/02/16-17:08:10.988334 70000de85000 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/02/16-17:08:10.988493 70000de85000 Delete type=2 #288
+2025/02/16-17:08:10.989931 70000de85000 Delete type=2 #304
+2025/02/16-17:08:11.033269 70000de85000 Manual compaction at level-0 from '!journal.pages!phbPaladin000000.uWOP3pIZ4bWX0oE6' @ 33608 : 1 .. '!journal.pages!phbWizard0000000.iMbdRPsxWV1pV61w' @ 0 : 0; will stop at (end)
