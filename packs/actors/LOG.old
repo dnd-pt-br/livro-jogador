@@ -1,7 +1,5 @@
-2025/02/16-14:50:07.915531 70001403d000 Recovering log #270
-2025/02/16-14:50:07.917337 70001403d000 Delete type=3 #268
-2025/02/16-14:50:07.917579 70001403d000 Delete type=0 #270
-2025/02/16-17:08:11.082264 70000de85000 Level-0 table #275: started
-2025/02/16-17:08:11.082327 70000de85000 Level-0 table #275: 0 bytes OK
-2025/02/16-17:08:11.082666 70000de85000 Delete type=0 #273
-2025/02/16-17:08:11.084952 70000de85000 Manual compaction at level-0 from '!actors!VBTtG9kjHNQstG0a' @ 72057594037927935 : 1 .. '!folders!l9ar6UzbvIRDyYmA' @ 0 : 0; will stop at (end)
+2025/02/17-18:23:46.661 d7b4 Log #277: 0 ops saved to Table #278 OK
+2025/02/17-18:23:46.661 d7b4 Archiving C:\Users\lucva\AppData\Local\FoundryVTT\Data\modules\dnd-players-handbook\packs\actors/000277.log: OK
+2025/02/17-18:23:46.692 d7b4 Table #219: 1007 entries OK
+2025/02/17-18:23:46.694 d7b4 Archiving C:\Users\lucva\AppData\Local\FoundryVTT\Data\modules\dnd-players-handbook\packs\actors/MANIFEST-000276: OK
+2025/02/17-18:23:46.696 d7b4 **** Repaired leveldb C:\Users\lucva\AppData\Local\FoundryVTT\Data\modules\dnd-players-handbook\packs\actors; recovered 1 files; 1196014 bytes. Some data may have been lost. ****
