@@ -1,14 +1,3 @@
-2025/02/16-14:50:07.886451 70001383a000 Recovering log #278
-2025/02/16-14:50:07.888005 70001383a000 Delete type=0 #278
-2025/02/16-14:50:07.888131 70001383a000 Delete type=3 #276
-2025/02/16-17:08:11.013336 70000de85000 Level-0 table #283: started
-2025/02/16-17:08:11.031966 70000de85000 Level-0 table #283: 724084 bytes OK
-2025/02/16-17:08:11.032701 70000de85000 Delete type=0 #281
-2025/02/16-17:08:11.034140 70000de85000 Manual compaction at level-0 from '!folders!3SjcO2acsFnWegp4' @ 72057594037927935 : 1 .. '!items.effects!phbsplZoneofTrut.BgkyT4A5qyArRveO' @ 0 : 0; will stop at '!items.effects!phbsplZoneofTrut.BgkyT4A5qyArRveO' @ 9156 : 0
-2025/02/16-17:08:11.034166 70000de85000 Compacting 1@0 + 1@1 files
-2025/02/16-17:08:11.074529 70000de85000 Generated table #284@0: 697 keys, 721114 bytes
-2025/02/16-17:08:11.074571 70000de85000 Compacted 1@0 + 1@1 files => 721114 bytes
-2025/02/16-17:08:11.074746 70000de85000 compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/02/16-17:08:11.074904 70000de85000 Delete type=2 #263
-2025/02/16-17:08:11.075225 70000de85000 Delete type=2 #283
-2025/02/16-17:08:11.077709 70000de85000 Manual compaction at level-0 from '!items.effects!phbsplZoneofTrut.BgkyT4A5qyArRveO' @ 9156 : 0 .. '!items.effects!phbsplZoneofTrut.BgkyT4A5qyArRveO' @ 0 : 0; will stop at (end)
+2025/02/19-22:28:57.455285 7fa3332006c0 Recovering log #335
+2025/02/19-22:28:57.574583 7fa3332006c0 Delete type=3 #333
+2025/02/19-22:28:57.585598 7fa3332006c0 Delete type=0 #335
