@@ -1,5 +1,3 @@
-2025/02/17-18:23:46.604 d74c Log #286: 0 ops saved to Table #287 OK
-2025/02/17-18:23:46.606 d74c Archiving C:\Users\lucva\AppData\Local\FoundryVTT\Data\modules\dnd-players-handbook\packs\spells/000286.log: OK
-2025/02/17-18:23:46.608 d74c Table #284: 697 entries OK
-2025/02/17-18:23:46.609 d74c Archiving C:\Users\lucva\AppData\Local\FoundryVTT\Data\modules\dnd-players-handbook\packs\spells/MANIFEST-000285: OK
-2025/02/17-18:23:46.611 d74c **** Repaired leveldb C:\Users\lucva\AppData\Local\FoundryVTT\Data\modules\dnd-players-handbook\packs\spells; recovered 1 files; 721114 bytes. Some data may have been lost. ****
+2025/02/19-22:28:57.455285 7fa3332006c0 Recovering log #335
+2025/02/19-22:28:57.574583 7fa3332006c0 Delete type=3 #333
+2025/02/19-22:28:57.585598 7fa3332006c0 Delete type=0 #335
