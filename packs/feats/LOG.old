@@ -1,5 +1,12 @@
-2025/02/17-18:23:46.582 d7b4 Log #275: 0 ops saved to Table #276 OK
-2025/02/17-18:23:46.583 d7b4 Archiving C:\Users\lucva\AppData\Local\FoundryVTT\Data\modules\dnd-players-handbook\packs\feats/000275.log: OK
-2025/02/17-18:23:46.587 d7b4 Table #221: 119 entries OK
-2025/02/17-18:23:46.589 d7b4 Archiving C:\Users\lucva\AppData\Local\FoundryVTT\Data\modules\dnd-players-handbook\packs\feats/MANIFEST-000274: OK
-2025/02/17-18:23:46.592 d7b4 **** Repaired leveldb C:\Users\lucva\AppData\Local\FoundryVTT\Data\modules\dnd-players-handbook\packs\feats; recovered 1 files; 92958 bytes. Some data may have been lost. ****
+2025/02/17-18:23:46.596 d7b4 Delete type=3 #1
+2025/02/17-18:41:35.245 37e4 Level-0 table #280: started
+2025/02/17-18:41:35.250 37e4 Level-0 table #280: 1668 bytes OK
+2025/02/17-18:41:35.250 37e4 Delete type=0 #278
+2025/02/17-18:41:35.264 37e4 Manual compaction at level-0 from '!folders!7zo2bljGLQY3uwXI' @ 72057594037927935 : 1 .. '!items.effects!phbftTough000000.CjombUT8lnLUfySB' @ 0 : 0; will stop at '!items!phbfstBlessedWar' @ 242 : 1
+2025/02/17-18:41:35.264 37e4 Compacting 2@0 + 0@1 files
+2025/02/17-18:41:35.272 37e4 Generated table #281@0: 119 keys, 92858 bytes
+2025/02/17-18:41:35.272 37e4 Compacted 2@0 + 0@1 files => 92858 bytes
+2025/02/17-18:41:35.272 37e4 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/02/17-18:41:35.272 37e4 Delete type=2 #221
+2025/02/17-18:41:35.273 37e4 Delete type=2 #280
+2025/02/17-18:41:35.287 37e4 Manual compaction at level-0 from '!items!phbfstBlessedWar' @ 242 : 1 .. '!items.effects!phbftTough000000.CjombUT8lnLUfySB' @ 0 : 0; will stop at (end)

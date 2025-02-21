@@ -1,5 +1,12 @@
-2025/02/17-18:23:46.565 d678 Log #273: 0 ops saved to Table #274 OK
-2025/02/17-18:23:46.565 d678 Archiving C:\Users\lucva\AppData\Local\FoundryVTT\Data\modules\dnd-players-handbook\packs\origins/000273.log: OK
-2025/02/17-18:23:46.566 d678 Table #219: 96 entries OK
-2025/02/17-18:23:46.568 d678 Archiving C:\Users\lucva\AppData\Local\FoundryVTT\Data\modules\dnd-players-handbook\packs\origins/MANIFEST-000272: OK
-2025/02/17-18:23:46.569 d678 **** Repaired leveldb C:\Users\lucva\AppData\Local\FoundryVTT\Data\modules\dnd-players-handbook\packs\origins; recovered 1 files; 137299 bytes. Some data may have been lost. ****
+2025/02/17-18:23:46.574 d678 Delete type=3 #1
+2025/02/17-18:41:35.252 37e4 Level-0 table #278: started
+2025/02/17-18:41:35.258 37e4 Level-0 table #278: 39214 bytes OK
+2025/02/17-18:41:35.259 37e4 Delete type=0 #276
+2025/02/17-18:41:35.283 37e4 Manual compaction at level-0 from '!folders!2Bw096HjE0HyGMwM' @ 72057594037927935 : 1 .. '!items.effects!phbsptStonecunni.SAbuNo2AO3XXtkdv' @ 0 : 0; will stop at '!items!phbspInfernalTie' @ 242 : 1
+2025/02/17-18:41:35.283 37e4 Compacting 2@0 + 0@1 files
+2025/02/17-18:41:35.286 37e4 Generated table #279@0: 96 keys, 137358 bytes
+2025/02/17-18:41:35.286 37e4 Compacted 2@0 + 0@1 files => 137358 bytes
+2025/02/17-18:41:35.287 37e4 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/02/17-18:41:35.287 37e4 Delete type=2 #219
+2025/02/17-18:41:35.287 37e4 Delete type=2 #278
+2025/02/17-18:41:35.287 37e4 Manual compaction at level-0 from '!items!phbspInfernalTie' @ 242 : 1 .. '!items.effects!phbsptStonecunni.SAbuNo2AO3XXtkdv' @ 0 : 0; will stop at (end)

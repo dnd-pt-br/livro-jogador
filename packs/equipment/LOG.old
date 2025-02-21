@@ -1,5 +1,12 @@
-2025/02/17-18:23:46.628 bdfc Log #277: 0 ops saved to Table #278 OK
-2025/02/17-18:23:46.629 bdfc Archiving C:\Users\lucva\AppData\Local\FoundryVTT\Data\modules\dnd-players-handbook\packs\equipment/000277.log: OK
-2025/02/17-18:23:46.629 bdfc Table #259: 292 entries OK
-2025/02/17-18:23:46.632 bdfc Archiving C:\Users\lucva\AppData\Local\FoundryVTT\Data\modules\dnd-players-handbook\packs\equipment/MANIFEST-000276: OK
-2025/02/17-18:23:46.633 bdfc **** Repaired leveldb C:\Users\lucva\AppData\Local\FoundryVTT\Data\modules\dnd-players-handbook\packs\equipment; recovered 1 files; 225209 bytes. Some data may have been lost. ****
+2025/02/17-18:23:46.638 bdfc Delete type=3 #1
+2025/02/17-18:41:35.238 37e4 Level-0 table #282: started
+2025/02/17-18:41:35.243 37e4 Level-0 table #282: 1863 bytes OK
+2025/02/17-18:41:35.245 37e4 Delete type=0 #280
+2025/02/17-18:41:35.259 37e4 Manual compaction at level-0 from '!folders!0qKr1rbesCSNE0MA' @ 72057594037927935 : 1 .. '!items.effects!qgJ7iyFjaJr7ift1.HsbtDDdiWhk4d7WB' @ 0 : 0; will stop at '!items.effects!iYwrPPLmuVD9eqfa.HsbtDDdiWhk4d7WB' @ 2529 : 0
+2025/02/17-18:41:35.259 37e4 Compacting 2@0 + 0@1 files
+2025/02/17-18:41:35.263 37e4 Generated table #283@0: 286 keys, 220953 bytes
+2025/02/17-18:41:35.263 37e4 Compacted 2@0 + 0@1 files => 220953 bytes
+2025/02/17-18:41:35.264 37e4 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/02/17-18:41:35.264 37e4 Delete type=2 #259
+2025/02/17-18:41:35.264 37e4 Delete type=2 #282
+2025/02/17-18:41:35.287 37e4 Manual compaction at level-0 from '!items.effects!iYwrPPLmuVD9eqfa.HsbtDDdiWhk4d7WB' @ 2529 : 0 .. '!items.effects!qgJ7iyFjaJr7ift1.HsbtDDdiWhk4d7WB' @ 0 : 0; will stop at (end)
