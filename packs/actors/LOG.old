@@ -1,12 +1,5 @@
-2025/02/17-18:23:46.701 d7b4 Delete type=3 #1
-2025/02/17-18:41:35.292 37e4 Level-0 table #282: started
-2025/02/17-18:41:35.293 37e4 Level-0 table #282: 5203 bytes OK
-2025/02/17-18:41:35.294 37e4 Delete type=0 #280
-2025/02/17-18:41:35.297 37e4 Manual compaction at level-0 from '!actors!VBTtG9kjHNQstG0a' @ 72057594037927935 : 1 .. '!folders!l9ar6UzbvIRDyYmA' @ 0 : 0; will stop at '!actors!phbmobBrownBear0' @ 1908 : 1
-2025/02/17-18:41:35.297 37e4 Compacting 2@0 + 0@1 files
-2025/02/17-18:41:35.339 37e4 Generated table #283@0: 1007 keys, 1196000 bytes
-2025/02/17-18:41:35.340 37e4 Compacted 2@0 + 0@1 files => 1196000 bytes
-2025/02/17-18:41:35.340 37e4 compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/02/17-18:41:35.340 37e4 Delete type=2 #219
-2025/02/17-18:41:35.341 37e4 Delete type=2 #282
-2025/02/17-18:41:35.342 37e4 Manual compaction at level-0 from '!actors!phbmobBrownBear0' @ 1908 : 1 .. '!folders!l9ar6UzbvIRDyYmA' @ 0 : 0; will stop at (end)
+2025/02/25-18:48:59.180883 706a350006c0 Recovering log #298
+2025/02/25-18:48:59.198417 706a350006c0 Level-0 table #301: started
+2025/02/25-18:48:59.314913 706a350006c0 Level-0 table #301: 177200 bytes OK
+2025/02/25-18:48:59.443477 706a350006c0 Delete type=0 #298
+2025/02/25-18:48:59.443661 706a350006c0 Delete type=3 #296
