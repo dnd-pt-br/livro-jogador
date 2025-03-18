@@ -1,3 +1,5 @@
-2025/02/21-07:57:31.306236 7b2d706006c0 Recovering log #276
-2025/02/21-07:57:31.427753 7b2d706006c0 Delete type=0 #276
-2025/02/21-07:57:31.427781 7b2d706006c0 Delete type=3 #274
+2025/03/18-10:25:36.597 780 Log #282: 0 ops saved to Table #283 OK
+2025/03/18-10:25:36.597 780 Archiving C:\Users\lucva\AppData\Local\FoundryVTT\Data\modules\dnd-players-handbook\packs\tables/000282.log: OK
+2025/03/18-10:25:36.598 780 Table #278: 290 entries OK
+2025/03/18-10:25:36.599 780 Archiving C:\Users\lucva\AppData\Local\FoundryVTT\Data\modules\dnd-players-handbook\packs\tables/MANIFEST-000281: OK
+2025/03/18-10:25:36.600 780 **** Repaired leveldb C:\Users\lucva\AppData\Local\FoundryVTT\Data\modules\dnd-players-handbook\packs\tables; recovered 1 files; 43109 bytes. Some data may have been lost. ****
