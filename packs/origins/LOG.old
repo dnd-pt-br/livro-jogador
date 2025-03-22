@@ -1,5 +1,3 @@
-2025/03/18-10:25:36.520 179c Log #283: 0 ops saved to Table #284 OK
-2025/03/18-10:25:36.520 179c Archiving C:\Users\lucva\AppData\Local\FoundryVTT\Data\modules\dnd-players-handbook\packs\origins/000283.log: OK
-2025/03/18-10:25:36.521 179c Table #279: 96 entries OK
-2025/03/18-10:25:36.523 179c Archiving C:\Users\lucva\AppData\Local\FoundryVTT\Data\modules\dnd-players-handbook\packs\origins/MANIFEST-000282: OK
-2025/03/18-10:25:36.525 179c **** Repaired leveldb C:\Users\lucva\AppData\Local\FoundryVTT\Data\modules\dnd-players-handbook\packs\origins; recovered 1 files; 137323 bytes. Some data may have been lost. ****
+2025/03/21-08:52:09.849 36ec Recovering log #305
+2025/03/21-08:52:09.851 36ec Delete type=0 #305
+2025/03/21-08:52:09.852 36ec Delete type=3 #304
