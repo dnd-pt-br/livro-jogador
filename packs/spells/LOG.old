@@ -1,3 +1,3 @@
-2025/03/28-20:28:26.482321 136886506266752 Recovering log #436
-2025/03/28-20:28:26.593181 136886506266752 Delete type=0 #436
-2025/03/28-20:28:26.593270 136886506266752 Delete type=3 #434
+2025/03/30-11:41:38.302 1288 Table #447: 698 entries OK
+2025/03/30-11:41:38.303 1288 Archiving C:\Users\lucva\AppData\Local\FoundryVTT\Data\modules\dnd-players-handbook\packs\spells/MANIFEST-000440: OK
+2025/03/30-11:41:38.306 1288 **** Repaired leveldb C:\Users\lucva\AppData\Local\FoundryVTT\Data\modules\dnd-players-handbook\packs\spells; recovered 1 files; 738776 bytes. Some data may have been lost. ****
