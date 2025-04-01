@@ -1,5 +1,5 @@
 {
-  "id": "dnd-players-handbook",
+  "id": "dnd-livro-jogador",
   "title": "Dungeons & Dragons Player's Handbook: Livro do Jogador",
   "description": "Embarque em uma aventura épica que está sendo preparada há 10 anos. Este novo e aprimorado Player's Handbook é o guia definitivo para jogadores de D&D da quinta edição. Jogue do seu jeito com regras otimizadas para criação e avanço de personagens, exploração, combate, equipamentos, feitiços e muito mais. Crie heróis fantásticos a partir de uma seleção ampliada de origens, classes e subclasses de personagens, revisados ​​e balanceados para máxima diversão.",
   "authors": [
@@ -10,7 +10,7 @@
   "media": [
     {
       "type": "setup",
-      "url": "modules/dnd-players-handbook/assets/journal-art/phb-2024-cover.webp",
+      "url": "modules/dnd-livro-jogador/assets/journal-art/phb-2024-cover.webp",
       "loop": false,
       "flags": {}
     }
@@ -21,10 +21,10 @@
     "verified": "13.337"
   },
   "esmodules": [
-    "scripts/dnd-players-handbook.mjs"
+    "scripts/dnd-livro-jogador.mjs"
   ],
   "styles": [
-    "styles/dnd-players-handbook.css"
+    "styles/dnd-livro-jogador.css"
   ],
   "languages": [
     {
@@ -171,21 +171,21 @@
   "flags": {
     "hotReload": false,
     "tokenRingSubjectMappings": {
-      "modules/dnd-players-handbook/assets/tokens/": "modules/dnd-players-handbook/assets/subjects/"
+      "modules/dnd-livro-jogador/assets/tokens/": "modules/dnd-livro-jogador/assets/subjects/"
     },
     "dnd5e": {
       "sourceBooks": {
         "PHB 2024": "SOURCE.BOOK.PHB2024"
       },
       "spellLists": [
-        "Compendium.dnd-players-handbook.content.JournalEntry.phbSpells0000000.JournalEntryPage.wwia6Wwo4BgE9GSI",
-        "Compendium.dnd-players-handbook.content.JournalEntry.phbSpells0000000.JournalEntryPage.SkHptN2PTzFGDaEj",
-        "Compendium.dnd-players-handbook.content.JournalEntry.phbSpells0000000.JournalEntryPage.LhvuDQEyrCdg5EfU",
-        "Compendium.dnd-players-handbook.content.JournalEntry.phbSpells0000000.JournalEntryPage.8yD9Jgp404hfZ9ie",
-        "Compendium.dnd-players-handbook.content.JournalEntry.phbSpells0000000.JournalEntryPage.5HnIk6HsrSxkvkz5",
-        "Compendium.dnd-players-handbook.content.JournalEntry.phbSpells0000000.JournalEntryPage.VfZ5mH2ZuyFq82Ga",
-        "Compendium.dnd-players-handbook.content.JournalEntry.phbSpells0000000.JournalEntryPage.sSzagq8GvYXpfmfs",
-        "Compendium.dnd-players-handbook.content.JournalEntry.phbSpells0000000.JournalEntryPage.6AnqLUowgdsqMFvz"
+        "Compendium.dnd-livro-jogador.content.JournalEntry.phbSpells0000000.JournalEntryPage.wwia6Wwo4BgE9GSI",
+        "Compendium.dnd-livro-jogador.content.JournalEntry.phbSpells0000000.JournalEntryPage.SkHptN2PTzFGDaEj",
+        "Compendium.dnd-livro-jogador.content.JournalEntry.phbSpells0000000.JournalEntryPage.LhvuDQEyrCdg5EfU",
+        "Compendium.dnd-livro-jogador.content.JournalEntry.phbSpells0000000.JournalEntryPage.8yD9Jgp404hfZ9ie",
+        "Compendium.dnd-livro-jogador.content.JournalEntry.phbSpells0000000.JournalEntryPage.5HnIk6HsrSxkvkz5",
+        "Compendium.dnd-livro-jogador.content.JournalEntry.phbSpells0000000.JournalEntryPage.VfZ5mH2ZuyFq82Ga",
+        "Compendium.dnd-livro-jogador.content.JournalEntry.phbSpells0000000.JournalEntryPage.sSzagq8GvYXpfmfs",
+        "Compendium.dnd-livro-jogador.content.JournalEntry.phbSpells0000000.JournalEntryPage.6AnqLUowgdsqMFvz"
       ]
     }
   }

@@ -15,7 +15,7 @@ import {
 
 Hooks.once("init", () => {
 
-  game.settings.register("dnd-players-handbook", "lastVersion", {
+  game.settings.register("dnd-livro-jogador", "lastVersion", {
     name: "PHB.SETTING.VERSION.name",
     hint: "PHB.SETTING.VERSION.hint",
     scope: "world",
@@ -25,7 +25,7 @@ Hooks.once("init", () => {
   })
 
   // Register Journal Sheet
-  DocumentSheetConfig.registerSheet(JournalEntry, "dnd-players-handbook", PlayersHandbookJournalSheet, {
+  DocumentSheetConfig.registerSheet(JournalEntry, "dnd-livro-jogador", PlayersHandbookJournalSheet, {
     types: ["base"],
     label: "PHB.JOURNAL.Label",
     makeDefault: false
@@ -40,20 +40,20 @@ Hooks.once("init", () => {
   foundry.utils.mergeObject(CONFIG.DND5E.rules, newRules);
   foundry.utils.mergeObject(CONFIG.DND5E.weaponMasteries, weaponMasteriesReferences);
   foundry.utils.mergeObject(CONFIG.DND5E.weaponIds, {
-    musket: "Compendium.dnd-players-handbook.equipment.Item.phbwepMusket0000",
-    pistol: "Compendium.dnd-players-handbook.equipment.Item.phbwepPistol0000"
+    musket: "Compendium.dnd-livro-jogador.equipment.Item.phbwepMusket0000",
+    pistol: "Compendium.dnd-livro-jogador.equipment.Item.phbwepPistol0000"
   });
 });
 
 Hooks.once("ready", async () => {
   // Handle showing changelog
-  const currentVersion = game.modules.get("dnd-players-handbook").version;
-  const lastVersion = game.settings.get("dnd-players-handbook", "lastVersion");
+  const currentVersion = game.modules.get("dnd-livro-jogador").version;
+  const lastVersion = game.settings.get("dnd-livro-jogador", "lastVersion");
 
   if (foundry.utils.isNewerVersion(currentVersion, lastVersion)) {
-    const journal = await fromUuid("Compendium.dnd-players-handbook.content.JournalEntry.phbChangelog0000");
+    const journal = await fromUuid("Compendium.dnd-livro-jogador.content.JournalEntry.phbChangelog0000");
     const page = journal.pages.contents[journal.pages.contents.length - 1];
     journal.sheet.render(true, {pageId: page.id});
-    game.settings.set("dnd-players-handbook", "lastVersion", currentVersion)
+    game.settings.set("dnd-livro-jogador", "lastVersion", currentVersion)
   }
 });

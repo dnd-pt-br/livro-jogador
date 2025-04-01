@@ -18,7 +18,7 @@ export default class PlayersHandbookJournalSheet extends dnd5e.applications.jour
     const header = html.querySelector(".journal-entry-content .journal-header");
 
     // Insert navigation
-    const nav = this.document.getFlag("dnd-players-handbook", "navigation");
+    const nav = this.document.getFlag("dnd-livro-jogador", "navigation");
     if ( nav ) {
       const getDocument = id => {
         if ( !this.document.pack ) return game.journal.get(id);

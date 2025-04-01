@@ -260,7 +260,7 @@
  * and flagged as phb content */
 .dnd5e2 figure.content-embed.phb,
 .phb figure.content-embed,
-.dnd5e2 figure.content-embed[data-uuid^="Compendium.dnd-players-handbook"] {
+.dnd5e2 figure.content-embed[data-uuid^="Compendium.dnd-livro-jogador"] {
   margin: 0.5em 0;
 
   /* "inline" captions (non-rolltables) need some
