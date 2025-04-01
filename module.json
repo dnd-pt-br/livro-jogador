@@ -18,15 +18,20 @@
   "version": "1.0.6",
   "compatibility": {
     "minimum": "12",
-    "verified": "12"
+    "verified": "13.337"
   },
-  "esmodules": ["scripts/dnd-players-handbook.mjs"],
-  "styles": ["styles/dnd-players-handbook.css"],
+  "esmodules": [
+    "scripts/dnd-players-handbook.mjs"
+  ],
+  "styles": [
+    "styles/dnd-players-handbook.css"
+  ],
   "languages": [
     {
       "lang": "en",
       "name": "English",
-      "path": "lang/en.json"
+      "path": "lang/en.json",
+      "flags": {}
     }
   ],
   "relationships": {
@@ -35,7 +40,7 @@
         "id": "dnd5e",
         "type": "system",
         "compatibility": {
-          "minimum": "4.0.2"
+          "minimum": "4.3.5"
         }
       }
     ]
@@ -64,7 +69,8 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       },
-      "system": "dnd5e"
+      "system": "dnd5e",
+      "flags": {}
     },
     {
       "name": "origins",
@@ -75,7 +81,8 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       },
-      "system": "dnd5e"
+      "system": "dnd5e",
+      "flags": {}
     },
     {
       "name": "feats",
@@ -86,7 +93,8 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       },
-      "system": "dnd5e"
+      "system": "dnd5e",
+      "flags": {}
     },
     {
       "name": "spells",
@@ -97,7 +105,8 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       },
-      "system": "dnd5e"
+      "system": "dnd5e",
+      "flags": {}
     },
     {
       "name": "equipment",
@@ -108,7 +117,8 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       },
-      "system": "dnd5e"
+      "system": "dnd5e",
+      "flags": {}
     },
     {
       "name": "tables",
@@ -119,7 +129,8 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       },
-      "system": "dnd5e"
+      "system": "dnd5e",
+      "flags": {}
     },
     {
       "name": "actors",
@@ -130,7 +141,8 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       },
-      "system": "dnd5e"
+      "system": "dnd5e",
+      "flags": {}
     }
   ],
   "packFolders": [
@@ -147,14 +159,15 @@
         "tables",
         "actors",
         "equipment"
-      ]
+      ],
+      "folders": []
     }
   ],
   "url": "https://github.com/dnd-pt-br/livro-jogador",
   "manifest": "https://raw.githubusercontent.com/dnd-pt-br/livro-jogador/refs/heads/main/module.json",
   "download": "https://codeload.github.com/dnd-pt-br/livro-jogador/zip/main",
   "protected": false,
-  "changelog": "",
+  "changelog": "https://github.com/dnd-pt-br/livro-jogador/releases",
   "flags": {
     "hotReload": false,
     "tokenRingSubjectMappings": {

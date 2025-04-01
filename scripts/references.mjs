@@ -5,110 +5,92 @@ export {
   replacementSpellSchoolReferences,
   replacementRules,
   newRules,
-  weaponMasteriesReferences,
-};
+  weaponMasteriesReferences
+}
 
 // Enrichment changes
 const replacementAbilityReferences = {
   str: {
     reference:
-      "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.VlMPiSBnkvw1WI2i",
+      "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixDRule.JournalEntryPage.nUPv6C66Ur64BIUH",
   },
   dex: {
     reference:
-      "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.qkGaEW1yaUjgvkP7",
+      "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixDRule.JournalEntryPage.ER8CKDUWLsFXuARJ",
   },
   con: {
     reference:
-      "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.MmK76E2svGQnKsIQ",
+      "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixDRule.JournalEntryPage.MpA4jnwD17Q0RPg7",
   },
   int: {
     reference:
-      "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.bTeNK1UwR30k2u9r",
+      "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixDRule.JournalEntryPage.WzWWcTIppki35YvF",
   },
   wis: {
     reference:
-      "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.4r8xGUXgTyoy3Ju4",
+      "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixDRule.JournalEntryPage.v3IPyTtqvXqN934s",
   },
   cha: {
     reference:
-      "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.RPHT29Qdl0C8EpZA",
+      "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixDRule.JournalEntryPage.9FyghudYFV5QJOuG",
   },
 };
 
 const replacementSkillReferences = {
   acr: {
-    reference:
-      "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixDRule.JournalEntryPage.AvvBLEHNl7kuwPkN",
+    reference: "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixDRule.JournalEntryPage.AvvBLEHNl7kuwPkN"
   },
   ani: {
-    reference:
-      "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixDRule.JournalEntryPage.xb3MCjUvopOU4viE",
+    reference: "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixDRule.JournalEntryPage.xb3MCjUvopOU4viE"
   },
   arc: {
-    reference:
-      "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixDRule.JournalEntryPage.h3bYSPge8IOqne1N",
+    reference: "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixDRule.JournalEntryPage.h3bYSPge8IOqne1N"
   },
   ath: {
-    reference:
-      "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixDRule.JournalEntryPage.rIR7ttYDUpH3tMzv",
+    reference: "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixDRule.JournalEntryPage.rIR7ttYDUpH3tMzv"
   },
   dec: {
-    reference:
-      "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixDRule.JournalEntryPage.mqVZ2fz0L7a9VeKJ",
+    reference: "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixDRule.JournalEntryPage.mqVZ2fz0L7a9VeKJ"
   },
   his: {
-    reference:
-      "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixDRule.JournalEntryPage.kRBZbdWMGW9K3wdY",
+    reference: "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixDRule.JournalEntryPage.kRBZbdWMGW9K3wdY"
   },
   ins: {
-    reference:
-      "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixDRule.JournalEntryPage.8R5SMbAGbECNgO8z",
+    reference: "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixDRule.JournalEntryPage.8R5SMbAGbECNgO8z"
   },
   itm: {
-    reference:
-      "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixDRule.JournalEntryPage.4VHHI2gJ1jEsppfg",
+    reference: "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixDRule.JournalEntryPage.4VHHI2gJ1jEsppfg"
   },
   inv: {
-    reference:
-      "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixDRule.JournalEntryPage.Y7nmbQAruWOs7WRM",
+    reference: "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixDRule.JournalEntryPage.Y7nmbQAruWOs7WRM"
   },
   med: {
-    reference:
-      "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixDRule.JournalEntryPage.GeYmM7BVfSCAga4o",
+    reference: "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixDRule.JournalEntryPage.GeYmM7BVfSCAga4o"
   },
   nat: {
-    reference:
-      "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixDRule.JournalEntryPage.ueMx3uF2PQlcye31",
+    reference: "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixDRule.JournalEntryPage.ueMx3uF2PQlcye31"
   },
   prc: {
-    reference:
-      "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixDRule.JournalEntryPage.zjEeHCUqfuprfzhY",
+    reference: "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixDRule.JournalEntryPage.zjEeHCUqfuprfzhY"
   },
   prf: {
-    reference:
-      "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixDRule.JournalEntryPage.hYT7Z06yDNBcMtGe",
+    reference: "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixDRule.JournalEntryPage.hYT7Z06yDNBcMtGe"
   },
   per: {
-    reference:
-      "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixDRule.JournalEntryPage.4R5H8iIsdFQTsj3X",
+    reference: "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixDRule.JournalEntryPage.4R5H8iIsdFQTsj3X"
   },
   rel: {
-    reference:
-      "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixDRule.JournalEntryPage.CXVzERHdP4qLhJXM",
+    reference: "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixDRule.JournalEntryPage.CXVzERHdP4qLhJXM"
   },
   slt: {
-    reference:
-      "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixDRule.JournalEntryPage.yg6SRpGNVz9nDW0A",
+    reference: "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixDRule.JournalEntryPage.yg6SRpGNVz9nDW0A"
   },
   ste: {
-    reference:
-      "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixDRule.JournalEntryPage.4MfrpERNiQXmvgCI",
+    reference: "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixDRule.JournalEntryPage.4MfrpERNiQXmvgCI"
   },
   sur: {
-    reference:
-      "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixDRule.JournalEntryPage.t3EzDU5b9BVAIEVi",
-  },
+    reference: "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixDRule.JournalEntryPage.t3EzDU5b9BVAIEVi"
+  }
 };
 
 const replacementSpellSchoolReferences = {
@@ -148,9 +130,9 @@ const replacementSpellSchoolReferences = {
 
 const replacementRules = {
   inspiration:
-    "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.AQ1oTG7jHy5kZuN9",
+    "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixDRule.JournalEntryPage.nkEPI89CiQnOaLYh",
   carryingcapacity:
-    "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.xk9KqsS54w8EpbZn",
+    "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixDRule.JournalEntryPage.1PnjDBKbQJIVyc2t",
   push: "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixDRule.JournalEntryPage.Hni8DjqLzoqsVjb6",
   lift: "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixDRule.JournalEntryPage.Hni8DjqLzoqsVjb6",
   drag: "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixDRule.JournalEntryPage.Hni8DjqLzoqsVjb6",
@@ -162,7 +144,7 @@ const replacementRules = {
     "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixDRule.JournalEntryPage.988C2hQNyvqkdbND",
   time: "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixDRule.JournalEntryPage.eihqNjwpZ3HM4IqY",
   speed:
-    "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.NSU7TjeJbJ0vVQaZ",
+    "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixDRule.JournalEntryPage.HhqeIiSj8sE1v1qZ",
   travelpace:
     "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixDRule.JournalEntryPage.eFAISahBloR2X8MX",
   forcedmarch:
@@ -177,8 +159,6 @@ const replacementRules = {
     "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixDRule.JournalEntryPage.1U0myNrOvIVBUdJV",
   highjump:
     "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixDRule.JournalEntryPage.raPwIkqKSv60ELmy",
-  falling:
-    "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixDRule.JournalEntryPage.kREHL5pgNUOhay9f",
   suffocating:
     "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixDRule.JournalEntryPage.BIlnr0xYhqt4TGsi",
   vision:
@@ -208,32 +188,6 @@ const replacementRules = {
     "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixDRule.JournalEntryPage.iIEI87J7lr2sqtb5",
   resting:
     "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixDRule.JournalEntryPage.dpHJXYLigIdEseIb",
-  restrained:
-    "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.dqLeGdpHtb8FfcxX",
-  grappled:
-    "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.KbQ1k0OIowtZeQgp",
-  charmed:
-    "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.vLAsIUa0FhZNsyLk",
-  deafened:
-    "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.qlRw66tJhk0zLnwq",
-  exhaustion:
-    "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.jSQtPgNm0i4f3Qi3",
-  frightened:
-    "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.93uaingTESo8N1qL",
-  incapacitated:
-    "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.4i3G895hy99piand",
-  invisible:
-    "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.MQIZ1zRLWRcNOtPN",
-  paralyzed:
-    "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.RnxZoTglPnLc6UPb",
-  petrified:
-    "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.6vtLuQT9lwZ9N299",
-  poisoned:
-    "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.HWs8kEojffqwTSJz",
-  prone:
-    "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.QxCrRcgMdUd3gfzz",
-  stunned:
-    "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.EjbXjvyQAMlDyANI",
   unconscious:
     "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.fZCRaKEJd4KoQCqH",
   shortrest:
@@ -303,7 +257,7 @@ const replacementRules = {
   unarmedstrike:
     "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixDRule.JournalEntryPage.xJjJ4lhymAYXAOvO",
   opportunityattacks:
-    "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.eNvzQabiTqTtfzis",
+    "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixDRule.JournalEntryPage.zeU0NyCyP10lkLg3",
   twoweaponfighting:
     "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixDRule.JournalEntryPage.FQTS08uH74A6psL2",
   grappling:
@@ -381,7 +335,7 @@ const replacementRules = {
   bonusactioncasting:
     "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixDRule.JournalEntryPage.RP1WL9FXI3aknlxZ",
   reactioncasting:
-    "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixDRule.JournalEntryPage.t62lCfinwU9H7Lji",
+    "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixDRule.JournalEntryPage.zRVW8Tvyk6BECjZD",
   longercastingtimes:
     "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixDRule.JournalEntryPage.gOAIRFCyPUx42axn",
   spellrange:
@@ -463,136 +417,51 @@ const replacementRules = {
 };
 
 const newRules = {
-  d20test:
-    "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.nxPH59t3iNtWJxnU",
-  advantage:
-    "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.lvs9RRDi1UA1Lff8",
-  disadvantage:
-    "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.fFrHBgqKUMY0Nnco",
-  difficultyclass:
-    "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.afnB0KZZk2hKtjv4",
-  armorclass:
-    "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.IL73rq9BlQowdon7",
-  abilitycheck:
-    "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.XBQqXCoTbvp5Dika",
-  savingthrow:
-    "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.Vlri6Mp6grn9wt3g",
-  challengerating:
-    "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.BMoxmXB8pX6bOBus",
-  expertise:
-    "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.69nu4Sk3V5O15GFf",
-  influence:
-    "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.4V59Q1dlWjNhpJGo",
-  magic:
-    "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.iIIDUsmSOkL0xNzF",
-  study:
-    "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.Nuz0Wx4a4aAPcC34",
-  utilize:
-    "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.UDlogfdiT2uYEZz4",
-  friendly:
-    "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.RVcWSqblHIs7SUzn",
-  indifferent:
-    "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.eYX5eimGuYhHPoj4",
-  hostile:
-    "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.BNxLbtJofbNGzjsp",
-  breakingobjects:
-    "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.RXTLVpAwcGm1qtKf",
-  hazards:
-    "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.5hyEitPd1Kb27fP5",
-  burning:
-    "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.mPBGM1vguT5IPzxT",
-  dehydration:
-    "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.FZFvLNOX0lHaHZ1k",
-  malnutrition:
-    "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.earBo4vQPC1ti4g7",
-  suffocation:
-    "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.gAvV8TLyS8UGq00x",
-  bloodied:
-    "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.shZaSIlFPpHufPFn",
-  jumping:
-    "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.aaJOlRhI1H6vAxt9",
-  resistance:
-    "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.Uk3xhCTvEfx8BN1O",
-};
+  d20test: "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.nxPH59t3iNtWJxnU",
+  advantage: "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.lvs9RRDi1UA1Lff8",
+  disadvantage: "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.fFrHBgqKUMY0Nnco",
+  difficultyclass: "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.afnB0KZZk2hKtjv4",
+  armorclass: "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.IL73rq9BlQowdon7",
+  abilitycheck: "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.XBQqXCoTbvp5Dika",
+  savingthrow: "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.Vlri6Mp6grn9wt3g",
+  challengerating: "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.BMoxmXB8pX6bOBus",
+  expertise: "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.69nu4Sk3V5O15GFf",
+  influence: "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.4V59Q1dlWjNhpJGo",
+  magic: "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.iIIDUsmSOkL0xNzF",
+  study: "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.Nuz0Wx4a4aAPcC34",
+  utilize: "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.UDlogfdiT2uYEZz4",
+  friendly: "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.RVcWSqblHIs7SUzn",
+  indifferent: "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.eYX5eimGuYhHPoj4",
+  hostile: "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.BNxLbtJofbNGzjsp",
+  breakingobjects: "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.RXTLVpAwcGm1qtKf",
+  hazards: "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.5hyEitPd1Kb27fP5",
+  burning: "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.mPBGM1vguT5IPzxT",
+  bloodied: "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.shZaSIlFPpHufPFn",
+  jumping: "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.aaJOlRhI1H6vAxt9",
+  resistance: "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.Uk3xhCTvEfx8BN1O"
+}
 
 const replacementConditionTypes = {
-  blinded: {
-    reference:
-      "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.uDogReMO6QtH6NDw",
-  },
-  charmed: {
-    reference:
-      "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.vLAsIUa0FhZNsyLk",
-  },
-  deafened: {
-    reference:
-      "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.qlRw66tJhk0zLnwq",
-  },
-  dehydration: {
-    reference:
-      "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.FZFvLNOX0lHaHZ1k",
-  },
-  exhaustion: {
-    reference:
-      "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.jSQtPgNm0i4f3Qi3",
-  },
-  falling: {
-    reference:
-      "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixDRule.JournalEntryPage.kREHL5pgNUOhay9f",
-  },
-  frightened: {
-    reference:
-      "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.93uaingTESo8N1qL",
-  },
-  grappled: {
-    reference:
-      "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.KbQ1k0OIowtZeQgp",
-  },
-  incapacitated: {
-    reference:
-      "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.4i3G895hy99piand",
-  },
-  invisible: {
-    reference:
-      "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.MQIZ1zRLWRcNOtPN",
-  },
-  malnutrition: {
-    reference:
-      "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.earBo4vQPC1ti4g7",
-  },
-  paralyzed: {
-    reference:
-      "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.RnxZoTglPnLc6UPb",
-  },
-  petrified: {
-    reference:
-      "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.6vtLuQT9lwZ9N299",
-  },
-  poisoned: {
-    reference:
-      "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.HWs8kEojffqwTSJz",
-  },
-  prone: {
-    reference:
-      "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.QxCrRcgMdUd3gfzz",
-  },
-  restrained: {
-    reference:
-      "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.dqLeGdpHtb8FfcxX",
-  },
-  stunned: {
-    reference:
-      "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.EjbXjvyQAMlDyANI",
-  },
-  suffocation: {
-    reference:
-      "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.gAvV8TLyS8UGq00x",
-  },
-  unconscious: {
-    reference:
-      "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.fZCRaKEJd4KoQCqH",
-  },
-};
+  blinded: { reference: "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.uDogReMO6QtH6NDw"},
+  charmed: { reference: "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.vLAsIUa0FhZNsyLk"},
+  deafened: { reference: "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.qlRw66tJhk0zLnwq"},
+  dehydration: { reference: "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.FZFvLNOX0lHaHZ1k"},
+  exhaustion: { reference: "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.jSQtPgNm0i4f3Qi3"},
+  falling: { reference: "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixDRule.JournalEntryPage.kREHL5pgNUOhay9f"},
+  frightened: { reference: "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.93uaingTESo8N1qL"},
+  grappled: { reference: "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.KbQ1k0OIowtZeQgp"},
+  incapacitated: { reference: "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.4i3G895hy99piand"},
+  invisible: { reference: "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.MQIZ1zRLWRcNOtPN"},
+  malnutrition: { reference: "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.earBo4vQPC1ti4g7"},
+  paralyzed: { reference: "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.RnxZoTglPnLc6UPb"},
+  petrified: { reference: "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.6vtLuQT9lwZ9N299"},
+  poisoned: { reference: "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.HWs8kEojffqwTSJz"},
+  prone: { reference: "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.QxCrRcgMdUd3gfzz"},
+  restrained: { reference: "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.dqLeGdpHtb8FfcxX"},
+  stunned: { reference: "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.EjbXjvyQAMlDyANI"},
+  suffocation: { reference: "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.gAvV8TLyS8UGq00x"},
+  unconscious: { reference: "Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixCRule.JournalEntryPage.fZCRaKEJd4KoQCqH"},
+}
 
 const weaponMasteriesReferences = {
   cleave: {

@@ -2,11 +2,17 @@
   "PHB": {
     "Title": "Player's Handbook",
     "JOURNAL": {
+      "Label": "Player's Handbook Journal",
       "Previous": "Previous",
       "Up": "Up",
       "Next": "Next"
+    },
+    "SETTING": {
+      "VERSION": {
+        "name": "Last Version",
+        "hint": "The last version checked against to determine whether to show the changelog."
+      }
     }
   },
-  "SOURCE.BOOK.PHB2024": "Player's Handbook (2024)",
-  "DND5E.Contents": "Conteúdos"
+  "SOURCE.BOOK.PHB2024": "Player's Handbook (2024)"
 }

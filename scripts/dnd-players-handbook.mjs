@@ -1,4 +1,3 @@
-import initTableOfContents from "./apps/table-of-contents.mjs";
 import PlayersHandbookJournalSheet from "./apps/journal-sheet.mjs";
 import {
   replacementAbilityReferences,
@@ -16,32 +15,23 @@ import {
 
 Hooks.once("init", () => {
 
-  // Adding module symbols to module namespace
-  const module = game.modules.get("dnd-players-handbook");
-  module.apps = {};
-  module.dataModels = {};
-
   game.settings.register("dnd-players-handbook", "lastVersion", {
-    name: "Last Version",
-    hint: "The last version checked against to determine whether to show the changelog.",
+    name: "PHB.SETTING.VERSION.name",
+    hint: "PHB.SETTING.VERSION.hint",
     scope: "world",
     config: false,
     type: String,
     default: "1.0.0"
   })
 
-  // Creating PHB config object
-  CONFIG.PHB = {};
-
   // Register Journal Sheet
   DocumentSheetConfig.registerSheet(JournalEntry, "dnd-players-handbook", PlayersHandbookJournalSheet, {
     types: ["base"],
-    label: "Player's Handbook",
+    label: "PHB.JOURNAL.Label",
     makeDefault: false
   });
 
-  initTableOfContents();
-
+  // Merging system level alterations (rules and weapon types)
   foundry.utils.mergeObject(CONFIG.DND5E.abilities, replacementAbilityReferences, {insertKeys: false});
   foundry.utils.mergeObject(CONFIG.DND5E.skills, replacementSkillReferences, {insertKeys: false});
   foundry.utils.mergeObject(CONFIG.DND5E.spellSchools, replacementSpellSchoolReferences, {insertKeys: false});
@@ -50,7 +40,7 @@ Hooks.once("init", () => {
   foundry.utils.mergeObject(CONFIG.DND5E.rules, newRules);
   foundry.utils.mergeObject(CONFIG.DND5E.weaponMasteries, weaponMasteriesReferences);
   foundry.utils.mergeObject(CONFIG.DND5E.weaponIds, {
-    musket: "Compendium.dnd-players-handbook.equipment.Item.phbwepMusket0000", 
+    musket: "Compendium.dnd-players-handbook.equipment.Item.phbwepMusket0000",
     pistol: "Compendium.dnd-players-handbook.equipment.Item.phbwepPistol0000"
   });
 });
