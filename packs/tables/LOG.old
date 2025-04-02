@@ -1,3 +1,3 @@
-2025/03/30-11:41:38.333 44e0 Table #316: 290 entries OK
-2025/03/30-11:41:38.334 44e0 Archiving C:\Users\lucva\AppData\Local\FoundryVTT\Data\modules\dnd-players-handbook\packs\tables/MANIFEST-000311: OK
-2025/03/30-11:41:38.336 44e0 **** Repaired leveldb C:\Users\lucva\AppData\Local\FoundryVTT\Data\modules\dnd-players-handbook\packs\tables; recovered 1 files; 42248 bytes. Some data may have been lost. ****
+2025/04/01-22:16:35.898147 131250428125312 Recovering log #21
+2025/04/01-22:16:36.005456 131250428125312 Delete type=0 #21
+2025/04/01-22:16:36.005515 131250428125312 Delete type=3 #19

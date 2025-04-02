@@ -1,3 +1,5 @@
-2025/03/30-16:33:44.062011 77e0e86006c0 Recovering log #351
-2025/03/30-16:33:44.169886 77e0e86006c0 Delete type=0 #351
-2025/03/30-16:33:44.169911 77e0e86006c0 Delete type=3 #348
+2025/04/01-22:17:11.975636 7a55d34006c0 Log #25: 0 ops saved to Table #26 OK
+2025/04/01-22:17:11.975847 7a55d34006c0 Archiving /media/renanm/5187-91EC/FoundryVTT/Data/modules/dnd-livro-jogador/packs/actors/000025.log: OK
+2025/04/01-22:17:11.978892 7a55d34006c0 Table #23: 1008 entries OK
+2025/04/01-22:17:12.085335 7a55d34006c0 Archiving /media/renanm/5187-91EC/FoundryVTT/Data/modules/dnd-livro-jogador/packs/actors/MANIFEST-000024: OK
+2025/04/01-22:17:12.190370 7a55d34006c0 **** Repaired leveldb /media/renanm/5187-91EC/FoundryVTT/Data/modules/dnd-livro-jogador/packs/actors; recovered 1 files; 1196575 bytes. Some data may have been lost. ****
