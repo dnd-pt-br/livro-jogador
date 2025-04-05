@@ -1,17 +1,12 @@
-2025/04/02-14:58:36.081 4a34 Recovering log #31
-2025/04/02-14:58:36.081 4a34 Level-0 table #33: started
-2025/04/02-14:58:36.087 4a34 Level-0 table #33: 197 bytes OK
-2025/04/02-14:58:36.089 4a34 Delete type=0 #31
-2025/04/02-14:58:36.089 4a34 Delete type=3 #30
-2025/04/02-15:37:14.925 6d8c Level-0 table #36: started
-2025/04/02-15:37:14.925 6d8c Level-0 table #36: 0 bytes OK
-2025/04/02-15:37:14.926 6d8c Delete type=0 #34
-2025/04/02-15:37:14.926 6d8c Manual compaction at level-0 from '!folders!0qKr1rbesCSNE0MA' @ 72057594037927935 : 1 .. '!items.effects!phbagNet00000000.67ofG0FVqrrkAHKa' @ 0 : 0; will stop at '!items!phbagPaper000000' @ 682 : 1
-2025/04/02-15:37:14.926 6d8c Compacting 3@0 + 0@1 files
-2025/04/02-15:37:14.929 6d8c Generated table #37@0: 288 keys, 219178 bytes
-2025/04/02-15:37:14.930 6d8c Compacted 3@0 + 0@1 files => 219178 bytes
-2025/04/02-15:37:14.930 6d8c compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/04/02-15:37:14.930 6d8c Delete type=2 #23
-2025/04/02-15:37:14.931 6d8c Delete type=2 #25
-2025/04/02-15:37:14.931 6d8c Delete type=2 #33
-2025/04/02-15:37:14.933 6d8c Manual compaction at level-0 from '!items!phbagPaper000000' @ 682 : 1 .. '!items.effects!phbagNet00000000.67ofG0FVqrrkAHKa' @ 0 : 0; will stop at (end)
+2025/04/05-09:23:57.222 6f30 Delete type=3 #1
+2025/04/05-13:04:34.712 62f8 Level-0 table #42: started
+2025/04/05-13:04:34.714 62f8 Level-0 table #42: 76030 bytes OK
+2025/04/05-13:04:34.715 62f8 Delete type=0 #40
+2025/04/05-13:04:34.719 62f8 Manual compaction at level-0 from '!folders!0qKr1rbesCSNE0MA' @ 72057594037927935 : 1 .. '!items.effects!phbagNet00000000.67ofG0FVqrrkAHKa' @ 0 : 0; will stop at '!items!phbwepShortbow00' @ 703 : 1
+2025/04/05-13:04:34.719 62f8 Compacting 2@0 + 0@1 files
+2025/04/05-13:04:34.723 62f8 Generated table #43@0: 287 keys, 218328 bytes
+2025/04/05-13:04:34.723 62f8 Compacted 2@0 + 0@1 files => 218328 bytes
+2025/04/05-13:04:34.724 62f8 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/04/05-13:04:34.724 62f8 Delete type=2 #37
+2025/04/05-13:04:34.724 62f8 Delete type=2 #42
+2025/04/05-13:04:34.727 62f8 Manual compaction at level-0 from '!items!phbwepShortbow00' @ 703 : 1 .. '!items.effects!phbagNet00000000.67ofG0FVqrrkAHKa' @ 0 : 0; will stop at (end)

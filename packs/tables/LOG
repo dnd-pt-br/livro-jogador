@@ -1,17 +1,12 @@
-2025/04/02-14:58:36.093 60e0 Recovering log #28
-2025/04/02-14:58:36.094 60e0 Level-0 table #30: started
-2025/04/02-14:58:36.095 60e0 Level-0 table #30: 10938 bytes OK
-2025/04/02-14:58:36.098 60e0 Delete type=0 #28
-2025/04/02-14:58:36.098 60e0 Delete type=3 #27
-2025/04/02-14:58:36.098 6d8c Compacting 4@0 + 0@1 files
-2025/04/02-14:58:36.100 6d8c Generated table #32@0: 290 keys, 42332 bytes
-2025/04/02-14:58:36.100 6d8c Compacted 4@0 + 0@1 files => 42332 bytes
-2025/04/02-14:58:36.101 6d8c compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/04/02-14:58:36.101 6d8c Delete type=2 #5
-2025/04/02-14:58:36.101 6d8c Delete type=2 #15
-2025/04/02-14:58:36.101 6d8c Delete type=2 #20
-2025/04/02-14:58:36.101 6d8c Delete type=2 #30
-2025/04/02-15:37:14.924 6d8c Level-0 table #34: started
-2025/04/02-15:37:14.924 6d8c Level-0 table #34: 0 bytes OK
-2025/04/02-15:37:14.925 6d8c Delete type=0 #31
-2025/04/02-15:37:14.926 6d8c Manual compaction at level-0 from '!folders!F9buBBrMbcKkKGWY' @ 72057594037927935 : 1 .. '!tables.results!phbsplTeleportMi.yJ4FhyyZvenG7AJl' @ 0 : 0; will stop at (end)
+2025/04/05-09:23:57.236 26d8 Delete type=3 #1
+2025/04/05-13:04:34.703 62f8 Level-0 table #38: started
+2025/04/05-13:04:34.709 62f8 Level-0 table #38: 198528 bytes OK
+2025/04/05-13:04:34.710 62f8 Delete type=0 #36
+2025/04/05-13:04:34.715 62f8 Manual compaction at level-0 from '!folders!F9buBBrMbcKkKGWY' @ 72057594037927935 : 1 .. '!tables.results!phbsplTeleportMi.yJ4FhyyZvenG7AJl' @ 0 : 0; will stop at '!tables.results!phbsplTeleportMi.yJ4FhyyZvenG7AJl' @ 910 : 1
+2025/04/05-13:04:34.715 62f8 Compacting 2@0 + 0@1 files
+2025/04/05-13:04:34.718 62f8 Generated table #39@0: 290 keys, 42840 bytes
+2025/04/05-13:04:34.718 62f8 Compacted 2@0 + 0@1 files => 42840 bytes
+2025/04/05-13:04:34.719 62f8 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/04/05-13:04:34.719 62f8 Delete type=2 #32
+2025/04/05-13:04:34.719 62f8 Delete type=2 #38
+2025/04/05-13:04:34.724 62f8 Manual compaction at level-0 from '!tables.results!phbsplTeleportMi.yJ4FhyyZvenG7AJl' @ 910 : 1 .. '!tables.results!phbsplTeleportMi.yJ4FhyyZvenG7AJl' @ 0 : 0; will stop at (end)
