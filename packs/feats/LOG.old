@@ -1,1 +1,5 @@
-2025/04/02-08:14:15.740 2c80 Delete type=3 #1
+2025/04/05-09:23:57.171 188 Log #31: 0 ops saved to Table #34 OK
+2025/04/05-09:23:57.171 188 Archiving C:\Users\lucva\AppData\Local\FoundryVTT\Data\modules\dnd-livro-jogador\packs\feats/000031.log: OK
+2025/04/05-09:23:57.178 188 Table #33: 120 entries OK
+2025/04/05-09:23:57.179 188 Archiving C:\Users\lucva\AppData\Local\FoundryVTT\Data\modules\dnd-livro-jogador\packs\feats/MANIFEST-000029: OK
+2025/04/05-09:23:57.181 188 **** Repaired leveldb C:\Users\lucva\AppData\Local\FoundryVTT\Data\modules\dnd-livro-jogador\packs\feats; recovered 1 files; 93050 bytes. Some data may have been lost. ****

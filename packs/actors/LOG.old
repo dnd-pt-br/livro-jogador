@@ -1,15 +1,6 @@
-2025/04/02-14:58:36.101 5844 Recovering log #25
-2025/04/02-14:58:36.101 5844 Level-0 table #27: started
-2025/04/02-14:58:36.103 5844 Level-0 table #27: 28101 bytes OK
-2025/04/02-14:58:36.106 5844 Delete type=0 #25
-2025/04/02-14:58:36.106 5844 Delete type=3 #24
-2025/04/02-14:58:36.505 6d8c Compacting 2@0 + 0@1 files
-2025/04/02-14:58:36.553 6d8c Generated table #29@0: 1008 keys, 1196695 bytes
-2025/04/02-14:58:36.553 6d8c Compacted 2@0 + 0@1 files => 1196695 bytes
-2025/04/02-14:58:36.554 6d8c compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/04/02-14:58:36.554 6d8c Delete type=2 #23
-2025/04/02-14:58:36.554 6d8c Delete type=2 #27
-2025/04/02-15:37:14.923 6d8c Level-0 table #31: started
-2025/04/02-15:37:14.923 6d8c Level-0 table #31: 0 bytes OK
-2025/04/02-15:37:14.924 6d8c Delete type=0 #28
-2025/04/02-15:37:14.926 6d8c Manual compaction at level-0 from '!actors!VBTtG9kjHNQstG0a' @ 72057594037927935 : 1 .. '!folders!l9ar6UzbvIRDyYmA' @ 0 : 0; will stop at (end)
+2025/04/05-09:23:57.246 188 Log #33: 12 ops saved to Table #34 OK
+2025/04/05-09:23:57.246 188 Archiving C:\Users\lucva\AppData\Local\FoundryVTT\Data\modules\dnd-livro-jogador\packs\actors/000033.log: OK
+2025/04/05-09:23:57.280 188 Table #29: 1008 entries OK
+2025/04/05-09:23:57.280 188 Table #34: 12 entries OK
+2025/04/05-09:23:57.281 188 Archiving C:\Users\lucva\AppData\Local\FoundryVTT\Data\modules\dnd-livro-jogador\packs\actors/MANIFEST-000032: OK
+2025/04/05-09:23:57.283 188 **** Repaired leveldb C:\Users\lucva\AppData\Local\FoundryVTT\Data\modules\dnd-livro-jogador\packs\actors; recovered 2 files; 1224002 bytes. Some data may have been lost. ****
