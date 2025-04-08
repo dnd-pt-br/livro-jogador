@@ -1,6 +1,5 @@
-2025/04/05-09:23:57.120 6eb0 Log #45: 14 ops saved to Table #46 OK
-2025/04/05-09:23:57.120 6eb0 Archiving C:\Users\lucva\AppData\Local\FoundryVTT\Data\modules\dnd-livro-jogador\packs\content/000045.log: OK
-2025/04/05-09:23:57.123 6eb0 Table #39: 958 entries OK
-2025/04/05-09:23:57.123 6eb0 Table #46: 14 entries OK
-2025/04/05-09:23:57.124 6eb0 Archiving C:\Users\lucva\AppData\Local\FoundryVTT\Data\modules\dnd-livro-jogador\packs\content/MANIFEST-000044: OK
-2025/04/05-09:23:57.126 6eb0 **** Repaired leveldb C:\Users\lucva\AppData\Local\FoundryVTT\Data\modules\dnd-livro-jogador\packs\content; recovered 2 files; 677116 bytes. Some data may have been lost. ****
+2025/04/08-20:09:06.514414 132905020403840 Recovering log #62
+2025/04/08-20:09:06.514505 132905020403840 Level-0 table #64: started
+2025/04/08-20:09:06.620392 132905020403840 Level-0 table #64: 691 bytes OK
+2025/04/08-20:09:06.737902 132905020403840 Delete type=0 #62
+2025/04/08-20:09:06.738565 132905020403840 Delete type=3 #60
