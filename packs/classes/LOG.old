@@ -1,7 +1,5 @@
-2025/04/02-08:14:15.690 1678 Delete type=3 #1
-2025/04/02-08:16:48.161 4324 Compacting 2@0 + 0@1 files
-2025/04/02-08:16:48.172 4324 Generated table #30@0: 826 keys, 774200 bytes
-2025/04/02-08:16:48.172 4324 Compacted 2@0 + 0@1 files => 774200 bytes
-2025/04/02-08:16:48.173 4324 compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/04/02-08:16:48.173 4324 Delete type=2 #5
-2025/04/02-08:16:48.173 4324 Delete type=2 #22
+2025/04/05-09:23:57.139 6f30 Log #34: 0 ops saved to Table #37 OK
+2025/04/05-09:23:57.140 6f30 Archiving C:\Users\lucva\AppData\Local\FoundryVTT\Data\modules\dnd-livro-jogador\packs\classes/000034.log: OK
+2025/04/05-09:23:57.142 6f30 Table #36: 826 entries OK
+2025/04/05-09:23:57.143 6f30 Archiving C:\Users\lucva\AppData\Local\FoundryVTT\Data\modules\dnd-livro-jogador\packs\classes/MANIFEST-000031: OK
+2025/04/05-09:23:57.145 6f30 **** Repaired leveldb C:\Users\lucva\AppData\Local\FoundryVTT\Data\modules\dnd-livro-jogador\packs\classes; recovered 1 files; 774196 bytes. Some data may have been lost. ****
