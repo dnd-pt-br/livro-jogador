@@ -1,0 +1,18 @@
+/* ---------------------------------------- */
+/*  Project Variables                       */
+/* ---------------------------------------- */
+.table-of-contents[data-compendium-id="dnd-livro-jogador.content"],
+.phb {
+    /* ---------------------------------------- */
+    /*  Colors                                  */
+    /* ---------------------------------------- */
+    --narrative-border: #fff;
+    --notable-color: #ebdbcd;
+    --table-color-odd: #dce9ee;
+    --table-color-even: #f2f7f9;
+    --table-border-color: #EDEAE8;
+    --table-header-color: #fdfdfd;
+    --phb-red: #5a0507;
+    --phb-border-image: url(../assets/ui/page-background.webp) 40 40 40 10 fill / 5% 3% 2% 1% / 0 round;
+    --phb-saturated-gold: color(srgb 0.900816 0.74032 0.420752);
+}

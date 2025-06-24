@@ -1,0 +1,17 @@
+@import url("variables.css");
+@import url("journal.css");
+@import url("blocks.css");
+@import url("table-of-contents.css");
+
+/** GLOBAL STYLES **/
+.wild-magic-surge table td:first-child {
+  min-width: 70px;
+}
+
+.core-class-traits,
+.core-traits {
+  & th {
+    min-width: 60px;
+  }
+}
+

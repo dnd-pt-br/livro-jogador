@@ -1,0 +1,11 @@
+2025/04/05-09:23:57.167 26d8 Delete type=3 #1
+2025/04/05-13:04:34.669 62f8 Level-0 table #38: started
+2025/04/05-13:04:34.669 62f8 Level-0 table #38: 0 bytes OK
+2025/04/05-13:04:34.670 62f8 Delete type=0 #36
+2025/04/05-13:04:34.699 62f8 Manual compaction at level-0 from '!folders!2Bw096HjE0HyGMwM' @ 72057594037927935 : 1 .. '!items.effects!phbsptStonecunni.SAbuNo2AO3XXtkdv' @ 0 : 0; will stop at '!items.effects!phbsptStonecunni.SAbuNo2AO3XXtkdv' @ 245 : 1
+2025/04/05-13:04:34.699 62f8 Compacting 1@0 + 0@1 files
+2025/04/05-13:04:34.701 62f8 Generated table #39@0: 97 keys, 136675 bytes
+2025/04/05-13:04:34.701 62f8 Compacted 1@0 + 0@1 files => 136675 bytes
+2025/04/05-13:04:34.702 62f8 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/04/05-13:04:34.702 62f8 Delete type=2 #33
+2025/04/05-13:04:34.702 62f8 Manual compaction at level-0 from '!items.effects!phbsptStonecunni.SAbuNo2AO3XXtkdv' @ 245 : 1 .. '!items.effects!phbsptStonecunni.SAbuNo2AO3XXtkdv' @ 0 : 0; will stop at (end)
